@@ -236,3 +236,12 @@ The mappools will be revealed one week in advance of each stage and will be disp
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CH]: /wiki/shared/flag/CH.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
+[flag_SG]: /wiki/shared/flag/SG.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
